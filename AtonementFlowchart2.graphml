@@ -19,7 +19,7 @@
         <y:ShapeNode>
           <y:Geometry height="1801.2524190744778" width="1229.8684761524437" x="-666.7540135440767" y="330.3027365293775"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="3.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1801.2524190744778" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1229.8684761524437" x="0.0" y="2.2737367544323206E-13">The reason for the atonement<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -36,7 +36,7 @@
         <y:ShapeNode>
           <y:Geometry height="1023.4751557785468" width="845.0184100398807" x="-628.5866076626426" y="693.6103284832222"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1023.4751557785468" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="845.0184100398807" x="0.0" y="-1.1368683772161603E-13">Penal substitution by Jesus - sinners couldn’t pay for their own sin, as the punishment is too great.  They’d be destroyed, or still merit eternal damnation.  So Jesus became our substitute and representative and proxy, by voluntarily identifying with us through incarnation (and also as our creator).  By divine fiat, God accepts this arrangement, but this is also consistent with God's nature as lawgiver and judge of the earth.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -51,10 +51,10 @@
     <node id="n2">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="179.43310993172497" width="394.7715768980911" x="-560.0886699216911" y="1439.5845181685406"/>
+          <y:Geometry height="509.5743929201632" width="459.67278824643984" x="-594.6454656939818" y="1169.797321708459"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Achieved via combination of both Jesus' substitutionary identification with sinners and divine fiat.<y:LabelModel>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="509.5743929201632" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="459.67278824643984" x="0.0" y="-1.1368683772161603E-13">Imputation - note analogies in human law exist too like vicarious liability<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -68,10 +68,10 @@
     <node id="n3">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="509.5743929201632" width="459.67278824643984" x="-594.6454656939818" y="1169.797321708459"/>
+          <y:Geometry height="179.43310993172497" width="394.7715768980911" x="-560.0886699216911" y="1439.5845181685406"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="509.5743929201632" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="459.67278824643984" x="0.0" y="-1.1368683772161603E-13">Imputation - note analogies in human law exist too like vicarious liability<y:LabelModel>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Achieved via combination of both Jesus' substitutionary identification with sinners and divine fiat.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
