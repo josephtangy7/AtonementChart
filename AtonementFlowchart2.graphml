@@ -544,10 +544,10 @@
     <node id="n31">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="72.0237139303083" width="442.18156778367955" x="-560.0886699216911" y="1778.3423378398247"/>
+          <y:Geometry height="72.0237139303083" width="375.1247606620179" x="-560.0886699216911" y="1778.3423378398247"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="294.431640625" x="73.8749635793398" y="26.66127102765404">Justice is satisfied, Jesus' righteousness imputed to us<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="72.0237139303083" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="375.1247606620179" x="0.0" y="-2.2737367544323206E-13">Justice is satisfied, sinners no longer deserve punishment, Jesus' righteousness imputed to us<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1130,7 +1130,7 @@
     <edge id="e38" source="n31" target="n32">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="103.36688457841856" sy="-6.540528531267455" tx="-127.04580735433521" ty="7.971026314879282"/>
+          <y:Path sx="87.69130299168671" sy="-6.540528531267455" tx="-127.04580735433521" ty="7.971026314879282"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
