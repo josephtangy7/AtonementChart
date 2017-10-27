@@ -37,7 +37,7 @@
           <y:Geometry height="1023.4751557785468" width="845.0184100398807" x="-628.5866076626426" y="693.6103284832222"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1023.4751557785468" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="845.0184100398807" x="0.0" y="-1.1368683772161603E-13">Penal substitution by Jesus - sinners couldn’t pay for their own sin, as the punishment is too great.  They’d be destroyed, or still merit eternal damnation.  So Jesus became our substitute and representative and proxy, by voluntarily identifying with us through incarnation (and also as our creator).  By divine fiat, God accepts this arrangement, but this is also consistent with God's nature as lawgiver and judge of the earth.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1023.4751557785468" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="845.0184100398807" x="0.0" y="-1.1368683772161603E-13">Penal substitution by Jesus - sinners couldn’t pay for their own sin, as the punishment is too great.  They’d be destroyed, or still merit eternal damnation.  So Jesus became our substitute and representative and proxy, by voluntarily identifying with us through incarnation (and also as our creator).  By divine fiat, God accepts this arrangement, but surely this is also consistent with God's nature as lawgiver, governor and judge of the earth (whereby his relationship with us isn't necessarily just fatherly, but can also include legal and formal aspects).<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -459,7 +459,7 @@
     <node id="n26">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="60.98706071929939" width="206.61090428286624" x="-57.36557272966181" y="864.4893956358771"/>
+          <y:Geometry height="60.98706071929939" width="206.61090428286624" x="-81.92877272966174" y="889.1074521755762"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.09375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.61090428286624" x="0.0" y="19.94665535964964">Did God punish Jesus?<y:LabelModel>
@@ -476,7 +476,7 @@
     <node id="n27">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="38.60159999999996" width="62.38541145945942" x="-111.28754026672726" y="974.7994207409197"/>
+          <y:Geometry height="38.60159999999996" width="62.38541145945942" x="-124.15397836196536" y="987.2871279456328"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="24.677734375" x="18.85383854222971" y="9.950214062499981">Yes<y:LabelModel>
@@ -493,7 +493,7 @@
     <node id="n28">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="38.60159999999996" width="75.35270663783825" x="63.23304860096039" y="974.7994207409197"/>
+          <y:Geometry height="38.60159999999996" width="75.35270663783825" x="63.23304860096039" y="1020.416792169491"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="19.33984375" x="28.006431443919126" y="9.950214062499981">No<y:LabelModel>
