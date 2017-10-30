@@ -442,10 +442,10 @@
     <node id="n25">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="60.98706071929928" width="310.0" x="-281.3921255282586" y="2034.2215651762772"/>
+          <y:Geometry height="38.60159999999996" width="310.0" x="-281.3921255282586" y="2072.1406843319487"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="60.98706071929928" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="310.0" x="0.0" y="-4.547473508864641E-13">Sinners now reconciled to God, the Holy Spirit can enter a person and make him a new creation.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="38.60159999999996" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="310.0" x="0.0" y="0.0">Sinners now reconciled to God, the Holy Spirit can enter a person and make him a new creation.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -544,10 +544,10 @@
     <node id="n31">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="72.0237139303083" width="375.1247606620179" x="-560.0886699216911" y="1778.3423378398247"/>
+          <y:Geometry height="48.37211853180088" width="375.1247606620179" x="-560.0886699216911" y="1778.3423378398247"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="72.0237139303083" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="375.1247606620179" x="0.0" y="-2.2737367544323206E-13">Justice is satisfied, sinners no longer guilty so no longer liable for punishment, Jesus' righteousness imputed to us<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.37211853180088" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="375.1247606620179" x="0.0" y="0.0">Justice is satisfied, sinners no longer guilty so no longer liable for punishment, Jesus' righteousness imputed to us<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -561,10 +561,10 @@
     <node id="n32">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="84.81619833397826" width="570.4406532005685" x="-324.80054736663806" y="1900.5862521371791"/>
+          <y:Geometry height="95.60402518168507" width="570.4406532005685" x="-324.80054736663806" y="1900.5862521371791"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="84.81619833397826" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="570.4406532005685" x="0.0" y="0.0">Other reasons why Jesus died for sinners - the great benefits to this public demonstration.  This shows how heinous sin is and how displeased God is with it (and Jesus suffering exactly what would be the deserved punishment for us is a very fitting demonstration).  It shows how much God loves us when Jesus dies the death sinners would’ve deserved.  Maybe it would also secure more people being saved.  His death provides good moral influence.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="95.60402518168507" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="570.4406532005685" x="0.0" y="-2.2737367544323206E-13">The great benefits to this public demonstration (which may have even been necessary if God had to punish sin).  This shows how heinous sin is and how displeased God is with it (and Jesus suffering exactly what would be the deserved punishment for us is a very fitting demonstration, in line with the demands of retributive justice).  It shows how much God loves us when Jesus dies the death sinners would’ve deserved.  Maybe it would also secure more people being saved.  His death provides good moral influence.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1118,8 +1118,8 @@
     <edge id="e37" source="n12" target="n32">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="7.665878749478338" sy="3.914892540699384" tx="244.75505222550703" ty="0.4298230935189622">
-            <y:Point x="402.5097156880747" y="1943.4241743976872"/>
+          <y:Path sx="7.665878749478338" sy="3.914892540699384" tx="244.75505222550703" ty="0.4844925693868836">
+            <y:Point x="402.5097156880747" y="1948.8727572974085"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1130,7 +1130,7 @@
     <edge id="e38" source="n31" target="n32">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="87.69130299168671" sy="-6.540528531267455" tx="-127.04580735433521" ty="7.971026314879282"/>
+          <y:Path sx="87.69130299168671" sy="-4.392709069143953" tx="-127.04580735433521" ty="8.98486628144831"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1140,7 +1140,7 @@
     <edge id="e39" source="n32" target="n25">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="86.81190476190477" ty="-1.9120197384058883"/>
+          <y:Path sx="0.0" sy="0.0" tx="86.81190476190477" ty="-1.2102078746466385"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1271,7 +1271,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="127.55404706521992" y="1814.3541948049788"/>
+            <y:Point x="127.55404706521992" y="1802.5283971057252"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
