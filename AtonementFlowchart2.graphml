@@ -71,7 +71,7 @@
           <y:Geometry height="179.43310993172497" width="394.7715768980911" x="-560.0886699216911" y="1439.5845181685406"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Achieved via combination of both Jesus' substitutionary identification with sinners, divine fiat and (i) (epistemically) possible necessity of punishing sins only via punishing someone for it (as no other way is commensurate/appropriate for the trespass), and (ii) (epistemically) possible necessity of punishment of sins per se.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Achieved via combination of both Jesus' substitutionary identification with sinners, divine fiat and (i) (epistemically) possible necessity of punishing sins only via punishing someone for it given retributivism (as no other way is commensurate/appropriate for the trespass), and (ii) (epistemically) possible necessity of punishment of sins per se.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -425,10 +425,10 @@
     <node id="n24">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="69.32749549796802" width="290.6544572631579" x="-74.22265488591978" y="577.7461046629264"/>
+          <y:Geometry height="69.32749549796802" width="361.7707696441102" x="-189.5059402192531" y="577.7461046629264"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.32749549796802" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="290.6544572631579" x="0.0" y="-1.1368683772161603E-13">Because God is totally holy and just, he had to punish sin in the retributivist/expressivist sense.  The form of punishment (or act of punishment) has to fit the trespass.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.32749549796802" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="361.7707696441102" x="0.0" y="-1.1368683772161603E-13">Because God is totally holy and just, he had to punish sin in the retributivist sense (the guilty deserve punishment) and possibly also the expressivist sense (towards the sinful acts).  The form of punishment (or act of punishment) has to fit the trespass.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
